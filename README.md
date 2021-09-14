@@ -1,1 +1,1 @@
-# androidpeople.github.io
+# android-people.github.io
